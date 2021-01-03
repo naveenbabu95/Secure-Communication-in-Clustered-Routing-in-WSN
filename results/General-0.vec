@@ -1,0 +1,31 @@
+version 2
+run General-0-20200615-17:02:42-6340
+attr configname General
+attr datetime 20200615-17:02:42
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network LeachBasic
+attr processid 6340
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0  LeachBasic.nd[0]  "Received Round Count Vector IN NODE "  ETV
+vector 1  LeachBasic.nd[1]  "Received Round Count Vector IN NODE "  ETV
+vector 2  LeachBasic.nd[2]  "Received Round Count Vector IN NODE "  ETV
+vector 3  LeachBasic.nd[3]  "Received Round Count Vector IN NODE "  ETV
+vector 4  LeachBasic.nd[4]  "Received Round Count Vector IN NODE "  ETV
+vector 5  LeachBasic.nd[5]  "Received Round Count Vector IN NODE "  ETV
+vector 6  LeachBasic.nd[6]  "Received Round Count Vector IN NODE "  ETV
+vector 7  LeachBasic.nd[7]  "Received Round Count Vector IN NODE "  ETV
+vector 8  LeachBasic.nd[8]  "Received Round Count Vector IN NODE "  ETV
+vector 9  LeachBasic.nd[9]  "Received Round Count Vector IN NODE "  ETV
+vector 10  LeachBasic.base  "Total Energy Vector"  ETV
+vector 11  LeachBasic.base  "Number Of Living Nodes Vector"  ETV
+vector 12  LeachBasic.base  "Received Round Count Vector"  ETV
+vector 13  LeachBasic.base  "Expended Energies For Rounds Vector"  ETV
